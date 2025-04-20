@@ -1,0 +1,4 @@
+input_dim: 21
+learning_rate: 5.0e-05
+model_type: conv
+pos_weight: null
