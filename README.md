@@ -40,5 +40,6 @@ bash 4.train_dnn.sh
 bash 5.evaluate_dnn.sh
 
 ```
-#Reference
+## Reference
+
 Phan, M. T. D., & Sbihi, A. (2026). Cost-sensitive backorder prediction in supply chain management: From model accuracy to business value via adaptive Fß optimization. Supply Chain Forum: An International Journal, 1–17. https://doi.org/10.1080/16258312.2026.2656616 
